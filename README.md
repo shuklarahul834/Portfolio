@@ -1,8 +1,10 @@
 # Portfolio
 # Rahul Shukla 
 # version 1.0
-# This is a personal project developed for a job interview in python 3.9.2 without any external third party library and is secured by APACHE 2.0 License. You can copy it any way you seem fit, commercial use is also not prohibited.
-# The program takes input from the user and then reads a csv file and gives output as follows:
+# This is a personal project portfolio and is secured by APACHE 2.0 License. You can copy it any way you seem fit, commercial use is also not prohibited.
+# PROGRAM 1
+# HOTEL DATA READER FROM CSV FILE
+# The program takes input from the user and then reads a csv file and gives output as follows
 User Inputs
 1. State: It can be either one of Karnataka/Tamilnadu/Maharashtra which will give
 result for the corresponding state or India can also be an input which will perform the
